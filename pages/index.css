@@ -67,7 +67,7 @@
   margin-left: 80px;
 }
 
-.title__block {
+.block__title {
   display: block;
 }
 
@@ -188,6 +188,9 @@
 .recipes__video {
   width: 480px;
   height: 273px;
+}
+
+.video-captions {
 }
 
 .video-caption {
