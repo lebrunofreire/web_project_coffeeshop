@@ -6,17 +6,3 @@
 @import url(/blocks/reservation.css);
 @import url(/blocks/form.css);
 @import url(/blocks/footer.css);
-
-.video-caption {
-  display: flex;
-  justify-content: space-between;
-  padding-bottom: 215px;
-  margin-top: 24px;
-  max-width: 480px;
-  color: white;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 30px;
-}
