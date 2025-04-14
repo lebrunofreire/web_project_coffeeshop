@@ -46,12 +46,6 @@
   list-style: none;
 }
 
-.footer__social-icon {
-  height: 16px;
-  width: 16px;
-  padding-right: 10px;
-}
-
 .footer__list-item {
   color: white;
   font-family: "Inter";
@@ -59,6 +53,13 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  padding-bottom: 10px;
+}
+
+.footer__social-icon {
+  height: 16px;
+  width: 16px;
+  padding-right: 10px;
 }
 
 .footer__social-link:focus {
