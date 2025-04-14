@@ -230,7 +230,7 @@
   box-sizing: border-box;
 }
 
-.title {
+.reservation__title {
   margin: 0 auto 80px;
   font-family: Inter;
   font-style: normal;
